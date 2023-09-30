@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vamsidevelops
-- 👀 I’m interested in Java, Python, and Data Science.
+- 👋 Hi, I’m Vamsi Krishna Paladugu.
+- 👀 I’m interested in Java, Python, Data Science, Machine Learning, and Deep Learning.
 - 🌱 I’m currently learning JavaScript, React.
-- 💞️ I’m looking to collaborate on Machine Learning and Web Development Projects.
-- 📫 How to reach me LinkedIn.com/vamsikrishnapaladugu
+- 💞️ I’m looking to collaborate on Machine Learning and NLP Projects.
+- 📫 How to reach me -> linkedIn.com/in/vamsikrishnapaladugu
 
 <!---
 Vamsidevelops/Vamsidevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
